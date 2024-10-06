@@ -1,0 +1,13 @@
+title: Glasgow Gang
+description: Home page of Glassgow Gang
+
+url: https://glasgow-gang.github.io/
+
+
+aux_links:
+  Github: https://github.com/Glasgow-Gang
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: https://github.com/just-the-docs/just-the-docs
