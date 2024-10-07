@@ -21,3 +21,11 @@ Robot stack for NAO6.
 * [Docker](https://www.docker.com)
 
 * [Ubuntu](https://www.ubuntu.com)
+
+* [nao_webots](https://github.com/mmattamala/nao_webots)
+
+* [naoqisim](https://github.com/cyberbotics/naoqisim)
+
+* [nao in ROS](https://wiki.ros.org/nao_robot)
+
+* [ros-naoqi](https://github.com/ros-naoqi)
