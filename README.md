@@ -14,18 +14,20 @@ Robot stack for NAO6.
 
 ## Useful links
 
-* [NAO6 SDK](https://www.aldebaran.com/en/support/nao-6/downloads-softwares)
+* [NAO6 SDK](https://www.aldebaran.com/en/support/nao-6/downloads-softwares): Official SDK for NAO6.
 
-* [Webots](https://www.cyberbotics.com)
+* [Webots](https://www.cyberbotics.com): Professional robot simulation software supporting NAO6.
 
-* [Docker](https://www.docker.com)
+* [Docker](https://www.docker.com): Container platform for deploying Webots simulations.
 
-* [Ubuntu](https://www.ubuntu.com)
+* [Ubuntu](https://www.ubuntu.com): Open-source OS for robotics development.
 
-* [nao_webots](https://github.com/mmattamala/nao_webots)
+* [NAO in Webots Documentation](https://www.cyberbotics.com/doc/guide/nao?version=cyberbotics:R2019a): Preview robot joint motion on web.
 
-* [naoqisim](https://github.com/cyberbotics/naoqisim)
+* [nao_webots](https://github.com/mmattamala/nao_webots): Simulation interface for NAOqi and Webots.
 
-* [nao in ROS](https://wiki.ros.org/nao_robot)
+* [naoqisim](https://github.com/cyberbotics/naoqisim): Old version of nao_webots
 
-* [ros-naoqi](https://github.com/ros-naoqi)
+* [nao in ROS](https://wiki.ros.org/nao_robot): NAO robot integration and support in ROS.
+
+* [ros-naoqi](https://github.com/ros-naoqi): Tools for integrating ROS with NAOqi.
