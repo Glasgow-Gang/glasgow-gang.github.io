@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 # Glasgow-Gang
 
 Robot stack for NAO6.
