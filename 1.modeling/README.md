@@ -21,7 +21,7 @@ nav_order: 2
 
 | Joint Name            | Parameters | Forward Kinematics | Inverse Kinematics | Physical Equation | State-space Model | Controller |
 |-----------------------|------------|--------------------|--------------------|-------------------|-------------------|------------|
-| Head                  | ✅         | ✅                 | ❌                 | ✅                | ✅                | ✅         |
+| Head                  | ✅         | ✅                 | ✅                 | ✅                | ✅                | ✅         |
 | ArmShoulder           | ❌         | ❌                 | ❌                 | ❌                | ❌                | ❌         |
 | ArmElbow              | ❌         | ❌                 | ❌                 | ❌                | ❌                | ❌         |
 | LegHip (Supported)    | ❌         | ❌                 | ❌                 | ❌                | ❌                | ❌         |
